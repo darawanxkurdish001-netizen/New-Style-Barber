@@ -109,7 +109,7 @@
   <section class="hero" id="home">
     <h1>New Style Barber</h1>
     <p>باشترین سەرتاشخانە بۆ ستایلی نوێ و جوان</p>
-    <img src="/mnt/data/ChatGPT Image 17 فبراير 2026، 05_13_03 م.png" alt="New Style Barber Logo" style="max-width:320px;width:100%;border-radius:16px;margin-top:20px;box-shadow:0 6px 30px rgba(0,0,0,0.6);">
+    <img src="Photo.uu00.png" alt="New Style Barber Logo" style="max-width:320px;width:100%;border-radius:16px;margin-top:20px;box-shadow:0 6px 30px rgba(0,0,0,0.6);">
     <br>
     <a class="btn" href="#contact">پەیوەندی بکە</a>
   </section>
