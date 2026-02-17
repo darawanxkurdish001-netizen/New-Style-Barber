@@ -1,5 +1,4 @@
-# New-Style-Barber
-<!DOCTYPE html>
+
 <html lang="ku">
 <head>
   <meta charset="UTF-8" />
@@ -99,7 +98,7 @@
 </head>
 <body>
   <header>
-    <div class="Photo.uu00.png">New <span>Style</span> Barber</div>
+    <div class="logo">New <span>Style</span> Barber</div>
     <nav>
       <a href="#home">سەرەتا</a>
       <a href="#services">خزمەتگوزاری</a>
@@ -157,13 +156,7 @@
     </div>
   </section>
 
-  <section id="gallery" style="background:#000;">
-    <h2>وێنە</h2>
-    <div style="text-align:center">
-      <img src="/mnt/data/A_logo_for_\"New_Style_Barber\"_is_displayed_in_a_di.png" alt="New Style Barber Logo" style="max-width:320px;width:100%;border-radius:16px;box-shadow:0 4px 20px rgba(0,0,0,0.5);">
-      <p style="margin-top:10px">لۆگۆی فەرمی New Style Barber</p>
-    </div>
-  </section>
+  
 
   <section id="contact">
     <h2>پەیوەندی</h2>
