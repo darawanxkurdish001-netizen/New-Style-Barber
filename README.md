@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="ku">
 <head>
   <meta charset="UTF-8" />
@@ -98,7 +98,7 @@
 </head>
 <body>
   <header>
-    <div class="logo">New <span>Style</span> Barber</div>
+    <div class="Photo.uu00.png">New <span>Style</span> Barber</div>
     <nav>
       <a href="#home">سەرەتا</a>
       <a href="#services">خزمەتگوزاری</a>
@@ -158,7 +158,16 @@
 
   
 
-  <section id="contact">
+  <section id="location">
+  <h2>شوێن</h2>
+  <div style="text-align:center;margin-bottom:20px;">
+    <a href="https://maps.app.goo.gl/UPw5hRkFiP1Bifj5A" target="_blank" style="display:inline-flex;align-items:center;gap:10px;background:#f59e0b;color:#111827;padding:12px 20px;border-radius:30px;text-decoration:none;font-weight:700;">
+      📍 ناونیشانی سەرتاشخانە
+    </a>
+  </div>
+</section>
+
+<section id="contact">
     <h2>پەیوەندی</h2>
     <div class="phones">
       <p><strong>Nihad:</strong> 07504298577</p>
