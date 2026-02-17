@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ku">
 <head>
   <meta charset="UTF-8" />
@@ -142,7 +142,7 @@
         <p>بۆیەی کوالیتی بەرز و ڕەنگی مۆدێرن</p>
       </div>
       <div class="card">
-        <h3>سەشوار و برشینگ</h3>
+        <h3>جوان و برشینگ</h3>
         <p>جوانکاری کۆتایی بۆ ڕووکاری تەواو</p>
       </div>
       <div class="card">
