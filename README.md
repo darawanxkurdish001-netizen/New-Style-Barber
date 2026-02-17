@@ -99,7 +99,7 @@
 </head>
 <body>
   <header>
-    <div class="logo">New <span>Style</span> Barber</div>
+    <div class="Photo.uu00.png">New <span>Style</span> Barber</div>
     <nav>
       <a href="#home">سەرەتا</a>
       <a href="#services">خزمەتگوزاری</a>
